@@ -1,0 +1,1 @@
+Our project is focused on building a RAG system for lawyers. Where we build a rag system which will take the classified files and can answer questions which are related to that files and summarize the questions so the lawyers can go through files easily and can handle new files at the neck of the moment.
